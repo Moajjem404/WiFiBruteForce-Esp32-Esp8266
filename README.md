@@ -92,5 +92,5 @@ const char* apPassword = "12345678";    // Default Password
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
 ## 👤 Author
-Created by [@ShadowGlint](https://t.me/ShadowGlintt).
+Created by [ShadowGlint](https://t.me/ShadowGlintt).
 
