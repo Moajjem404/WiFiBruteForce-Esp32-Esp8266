@@ -35,7 +35,7 @@ EWiFiBruteForce-Esp32-Esp8266/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ESP-WiFi-Scanner-and-BruteForce.git
+git clone https://github.com/Moajjem404/WiFiBruteForce-Esp32-Esp8266.git
 cd WiFiBruteForce-Esp32-Esp8266
 ```
 
